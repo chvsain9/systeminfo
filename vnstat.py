@@ -81,5 +81,5 @@ while True:
     print(' ')
     #os.system("sh clear.sh")
     
-    time.sleep(2)
+    time.sleep(422)
 
